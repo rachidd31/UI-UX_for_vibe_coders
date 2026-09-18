@@ -1,6 +1,29 @@
 
 Absolutely — here’s a README-style document framing this as an **LLM + prompt + SDUI architecture**, with an emphasis on making the UI adaptive and useful rather than simply “AI-generated screens.”
 
+- Client-Driven UI (CDUI)
+- Server-Driven UI (SDUI)
+- Schema-Driven UI
+- Declarative UI
+- Design-System-Driven UI
+- Configuration-Driven UI
+- DSL-Driven UI
+- Component-Driven UI
+- State-Driven UI
+- Data-Driven UI
+- Event-Driven UI
+- Intent-Driven UI
+- Conversational UI
+- Generative UI (GenUI)
+- Agent-Driven UI
+- Adaptive UI
+- Context-Aware UI
+- Personalized UI
+- Micro-Frontend Architecture
+- Hybrid Client/Server UI
+- LLM-Orchestrated UI
+
+
  # LLM-Driven UI: From Prompts to Useful Interfaces
 
  ## Overview
